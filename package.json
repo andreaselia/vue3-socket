@@ -1,11 +1,11 @@
 {
-  "name": "vue3-socket.io",
+  "name": "vue3-socket",
   "version": "1.0.0",
   "description": "A simple Vue.js v3 plugin for Socket.IO",
   "main": "vue-socket.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndreasElia/vue3-socket.io.git"
+    "url": "git+https://github.com/AndreasElia/vue3-socket.git"
   },
   "keywords": [
     "vue",

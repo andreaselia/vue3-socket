@@ -5,11 +5,11 @@ A simple Vue.js v3 plugin for Socket.IO
 ## Install
 
 ```bash
-npm install vue3-socket.io
+npm install vue3-socket
 ```
 
 ```vue
-import Vue3SocketIO from 'vue3-socket.io'
+import Vue3SocketIO from 'vue3-socket'
 
 const app = createApp(App)
 
